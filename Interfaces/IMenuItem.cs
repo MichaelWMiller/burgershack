@@ -1,4 +1,4 @@
-namespace burger_shack.Interfaces
+namespace burgershack.Interfaces
 {
 
   public interface IMenuItem
